@@ -21,13 +21,13 @@ label.mat : truth label (both df_fixed.mat and df_random.mat have the same truth
 
 /Simulation/Intermediate Results/
 
-df_mf_*.Rdata : Results for fixed knot locations model fitted on data generated from fixed knot locations model
+Results for fixed knot locations model fitted on data generated from fixed knot locations model have been split into multiple .Rdata files that with "df_mf".
 
-df_mr_*.Rdata : Results for random knot locations model fitted on data generated from fixed knot locations model
+Results for random knot locations model fitted on data generated from fixed knot locations model have been split into multiple .Rdata files that with "df_mr".
 
-dr_mf_*.Rdata : Results for fixed knot locations model fitted on data generated from random knot locations model
+Results for fixed knot locations model fitted on data generated from random knot locations model have been split into multiple .Rdata files that with "dr_mf".
 
-dr_mr_*.Rdata : Results for random knot locations model fitted on data generated from random knot locations model
+Results for random knot locations model fitted on data generated from random knot locations model have been split into multiple .Rdata files that with "dr_mr".
 
 label.Rdata : Truth label (both df_fixed.mat and df_random.mat have the same truth labels)
 
